@@ -19,7 +19,7 @@ This tool is for **educational purposes only**. Use responsibly.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ObFuscate.git
+   git clone https://github.com/0xgh057r3c0n/ObFuscate.git
    cd ObFuscate
    ```
 
