@@ -94,7 +94,6 @@ python3 obfuscate.py -u "http://example.com/page.php?param=value" -t sql -d 1.5
 
 **ObFuscate** is intended for educational and research purposes only. Use this tool responsibly and only with explicit permission from the target system's owner. Misuse of this tool may result in legal consequences.
 
-...
 
 *Developed by [Gaurav Bhattacharjee] (@0xgh057r3c0n)*
 
