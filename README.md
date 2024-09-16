@@ -1,6 +1,9 @@
 # ObFuscate
 
 ### A Tool for Bypassing Web Application Firewalls (WAFs) Using Obfuscation Techniques
+
+![Logo](logo.png)
+
 ## Introduction
 
 **ObFuscate** is a tool designed to assist security researchers and penetration testers in bypassing Web Application Firewalls (WAFs) by leveraging obfuscation techniques. It injects payloads into URL parameters and POST data, testing whether the WAF can detect and block the payload. The tool works by attempting to disguise the payload and send multiple requests to the target server.
