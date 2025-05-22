@@ -37,7 +37,7 @@ def print_result(success, base_url, param_list, payload, status_code):
         print(colored(f"✘ [{payload}] [{url_with_payload}] --> <failed> Response Status: {status_code}", 'red'))
 
 def main():
-    parser = argparse.ArgumentParser(description='WAFBYP - Analyzing parameters with payloads to benchmark WAFs.')
+    parser = argparse.ArgumentParser(description='ObFuscate - A tool for bypassing WAFs using obfuscation techniques.')
     required = parser.add_argument_group('required arguments')
     required.add_argument('-u', '--url', help='Target URL (http://www.example.com/page.php?parameter=value)', required=True)
     parser.add_argument('-a', '--useragent', help='Set custom user-agent string')
